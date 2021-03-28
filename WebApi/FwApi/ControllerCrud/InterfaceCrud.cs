@@ -9,7 +9,6 @@ using FwCore.DBContext;
 using Microsoft.EntityFrameworkCore;
 using FwCore.DBContext.Model;
 
-// For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 
 namespace FwApi.ControllerCrud
 {
